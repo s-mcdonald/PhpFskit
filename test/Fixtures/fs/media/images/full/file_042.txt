@@ -1,0 +1,3 @@
+fixture file 042
+path: media/images/full/file_042.txt
+lorem ipsum dolor sit amet

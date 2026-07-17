@@ -1,0 +1,3 @@
+fixture file 014
+path: projects/beta/src/lib/file_014.txt
+lorem ipsum dolor sit amet

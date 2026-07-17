@@ -1,0 +1,3 @@
+fixture file 040
+path: media/images/thumbs/file_040.txt
+lorem ipsum dolor sit amet

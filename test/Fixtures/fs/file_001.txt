@@ -1,0 +1,3 @@
+fixture file 001
+path: ./file_001.txt
+lorem ipsum dolor sit amet

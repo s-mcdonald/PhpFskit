@@ -1,0 +1,3 @@
+fixture file 074
+path: data/processed/batch1/file_074.txt
+lorem ipsum dolor sit amet

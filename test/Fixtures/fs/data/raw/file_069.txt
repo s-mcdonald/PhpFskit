@@ -1,0 +1,3 @@
+fixture file 069
+path: data/raw/file_069.txt
+lorem ipsum dolor sit amet

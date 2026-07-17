@@ -1,0 +1,3 @@
+fixture file 038
+path: media/images/thumbs/file_038.txt
+lorem ipsum dolor sit amet

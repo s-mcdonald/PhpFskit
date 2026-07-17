@@ -1,0 +1,3 @@
+fixture file 072
+path: data/raw/file_072.txt
+lorem ipsum dolor sit amet

@@ -1,0 +1,44 @@
+{
+  "name": "s-mcdonald/phpfskit",
+  "description": "A lightweight PHP filesystem abstraction layer providing a clean, unified API for working with files, directories and their attributes.",
+  "keywords": [],
+  "homepage": "https://github.com/s-mcdonald/phpfskit",
+  "license": "MIT",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Sam McDonald",
+      "email": "s.mcdonald@outlook.com.au",
+      "homepage": "https://github.com/s-mcdonald"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "ext-fileinfo": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5",
+    "mockery/mockery": "^1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "FsKit\\": "src/"
+    },
+    "files": [
+    ]
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\FsKit\\": "test/Unit"
+    }
+  },
+  "scripts": {
+    "dcup": "docker compose up -d --build",
+    "dcdown": "docker compose down"
+  },
+  "minimum-stability" : "dev",
+  "prefer-stable" : true,
+  "suggest" : {
+    "s-mcdonald/PHPJson" : "Work with json files"
+  }
+}

@@ -1,0 +1,3 @@
+fixture file 059
+path: logs/2024/01/file_059.txt
+lorem ipsum dolor sit amet

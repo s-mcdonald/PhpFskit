@@ -1,0 +1,3 @@
+fixture file 052
+path: config/env/file_052.txt
+lorem ipsum dolor sit amet

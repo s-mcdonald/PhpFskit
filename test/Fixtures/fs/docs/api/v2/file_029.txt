@@ -1,0 +1,3 @@
+fixture file 029
+path: docs/api/v2/file_029.txt
+lorem ipsum dolor sit amet

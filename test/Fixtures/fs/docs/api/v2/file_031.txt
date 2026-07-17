@@ -1,0 +1,3 @@
+fixture file 031
+path: docs/api/v2/file_031.txt
+lorem ipsum dolor sit amet

@@ -1,0 +1,15 @@
+
+# Hidden folders
+/.blocks
+/.idea
+/.claude
+
+# Lock files
+/.composer.lock
+
+# Packages
+/vendor
+
+# PHPUnit
+/.phpunit.cache
+/.phpunit.result.cache

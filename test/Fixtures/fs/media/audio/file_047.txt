@@ -1,0 +1,3 @@
+fixture file 047
+path: media/audio/file_047.txt
+lorem ipsum dolor sit amet

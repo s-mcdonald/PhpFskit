@@ -1,0 +1,3 @@
+fixture file 033
+path: docs/drafts/file_033.txt
+lorem ipsum dolor sit amet

@@ -1,0 +1,3 @@
+fixture file 009
+path: projects/alpha/tests/file_009.txt
+lorem ipsum dolor sit amet

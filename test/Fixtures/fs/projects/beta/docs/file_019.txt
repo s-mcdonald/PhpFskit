@@ -1,0 +1,3 @@
+fixture file 019
+path: projects/beta/docs/file_019.txt
+lorem ipsum dolor sit amet

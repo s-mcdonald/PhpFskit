@@ -1,0 +1,2 @@
+entry 100 in projects/alpha
+sample text content
