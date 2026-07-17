@@ -1,0 +1,3 @@
+fixture file 007
+path: projects/alpha/src/file_007.txt
+lorem ipsum dolor sit amet

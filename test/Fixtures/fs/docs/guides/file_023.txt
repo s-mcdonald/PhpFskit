@@ -1,0 +1,3 @@
+fixture file 023
+path: docs/guides/file_023.txt
+lorem ipsum dolor sit amet

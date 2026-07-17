@@ -1,0 +1,3 @@
+fixture file 064
+path: logs/2024/02/file_064.txt
+lorem ipsum dolor sit amet

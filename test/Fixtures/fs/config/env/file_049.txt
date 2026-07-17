@@ -1,0 +1,3 @@
+fixture file 049
+path: config/env/file_049.txt
+lorem ipsum dolor sit amet

@@ -1,0 +1,3 @@
+fixture file 091
+path: misc/nested/deep/deeper/deepest/file_091.txt
+lorem ipsum dolor sit amet

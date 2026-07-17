@@ -1,0 +1,3 @@
+fixture file 048
+path: media/audio/file_048.txt
+lorem ipsum dolor sit amet

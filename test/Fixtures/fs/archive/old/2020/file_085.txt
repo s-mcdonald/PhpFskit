@@ -1,0 +1,3 @@
+fixture file 085
+path: archive/old/2020/file_085.txt
+lorem ipsum dolor sit amet

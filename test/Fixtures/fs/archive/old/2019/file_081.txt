@@ -1,0 +1,3 @@
+fixture file 081
+path: archive/old/2019/file_081.txt
+lorem ipsum dolor sit amet

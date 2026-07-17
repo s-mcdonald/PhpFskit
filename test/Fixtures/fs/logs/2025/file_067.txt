@@ -1,0 +1,3 @@
+fixture file 067
+path: logs/2025/file_067.txt
+lorem ipsum dolor sit amet

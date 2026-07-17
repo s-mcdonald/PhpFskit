@@ -1,0 +1,3 @@
+fixture file 050
+path: config/env/file_050.txt
+lorem ipsum dolor sit amet

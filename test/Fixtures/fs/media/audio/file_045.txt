@@ -1,0 +1,3 @@
+fixture file 045
+path: media/audio/file_045.txt
+lorem ipsum dolor sit amet

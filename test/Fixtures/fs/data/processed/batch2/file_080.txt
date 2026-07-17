@@ -1,0 +1,3 @@
+fixture file 080
+path: data/processed/batch2/file_080.txt
+lorem ipsum dolor sit amet
